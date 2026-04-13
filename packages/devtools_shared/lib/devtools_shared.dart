@@ -13,4 +13,3 @@ export 'src/service_utils.dart';
 export 'src/sse/sse_shim.dart';
 export 'src/utils/compare.dart';
 export 'src/utils/semantic_version.dart';
-// trigger
