@@ -10,6 +10,7 @@ To learn more about DevTools, check out the
 
 ## General updates
 
+* Update documentation and internal tools.
 * Added a link to the new "Dive in to DevTools" YouTube
 [video](https://www.youtube.com/watch?v=_EYk-E29edo) in the bottom status bar. This
 video provides a brief tutorial for each DevTools screen.
